@@ -1,3 +1,4 @@
 /fixtures/history-only.bin filter=lfs diff=lfs merge=lfs -text
 /fixtures/open-pr.bin filter=lfs diff=lfs merge=lfs -text
 /fixtures/merged-pr.bin filter=lfs diff=lfs merge=lfs -text
+/fixtures/closed-pr.bin filter=lfs diff=lfs merge=lfs -text
